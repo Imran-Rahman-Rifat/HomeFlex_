@@ -20,27 +20,28 @@
             <h1 class="text-white pb-5">ABOUT US</h1>
         </div>       
      </div>   
-    <div class="container my-5">
-        <h1 class="text-center my-4">Lorem ipsum dolor sit amet</h1>
-        <div class="row">
-            <div class="col-md-6">
-                <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, error minus dignissimos iusto labore molestiae rerum exercitationem eum libero eos consectetur, nihil placeat nobis rem cumque perferendis aut qui sunt, voluptatum iure iste non. Error, inventore aut. Corporis, assumenda qui? Facilis magni debitis quidem aut, rerum laboriosam iure consectetur natus optio. Nihil omnis sint nisi, harum sed, laborum non est totam, aut velit tempore voluptas quas repudiandae vel nulla temporibus excepturi! Quo sapiente necessitatibus, aspernatur pariatur saepe laboriosam? Eius obcaecati exercitationem nihil, dolor dolorem iusto optio eaque veniam, pariatur reprehenderit quibusdam, ab esse consequuntur non officiis porro eveniet natus eos.
-                </p>
-                <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et distinctio atque tempora aut accusantium dolorem sint, quia pariatur ex deleniti blanditiis facilis aliquam quo, eveniet ad velit, adipisci quisquam numquam? Eligendi illum eum officiis dolore, reprehenderit facere soluta, suscipit ut, doloremque quam commodi quia culpa unde? Quod quasi autem nisi corporis ad veritatis eum totam debitis delectus, sint possimus dignissimos, libero velit itaque! Consequatur quisquam expedita asperiores vitae beatae, fugiat quibusdam nisi enim repudiandae placeat temporibus consectetur mollitia delectus recusandae in, quas perspiciatis! Suscipit eaque ea exercitationem amet magni neque, nemo nulla libero beatae? Veniam iste voluptatibus ea eligendi tenetur.
-                </p>
-            </div>
-            <div class="col-md-6">
-                <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam inventore culpa explicabo reprehenderit unde exercitationem hic enim a, excepturi et iste quibusdam debitis sunt, praesentium, assumenda molestiae odio quidem molestias odit tempora minus natus sit accusantium! Dolor odit sapiente libero, nulla facere culpa voluptas, ut sed corporis fugit quasi? Cumque aliquam ipsam laborum accusamus repellendus, reiciendis suscipit iusto, quia modi, nisi tempora quas voluptatibus debitis omnis molestias ullam nesciunt vitae obcaecati a eveniet facere recusandae ad cum. Accusantium obcaecati provident voluptatum maiores velit, reprehenderit deleniti voluptas animi saepe accusamus repudiandae ex neque sunt dolor id beatae blanditiis unde doloribus a.
-                </p>
-                <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem natus dolor debitis temporibus sapiente? Quia voluptates at enim cumque numquam adipisci, officiis temporibus neque tempora excepturi dicta, consequuntur vitae error?
-                </p>
-            </div>
+     <div class="container my-5">
+    <h1 class="text-center my-4">About HomeFlex - Your One Stop Rental Solution</h1>
+    <div class="row">
+        <div class="col-md-6">
+            <p>
+                Welcome to HomeFlex, your ultimate home rental solution designed to simplify the process of finding and renting properties. Whether you're a tenant looking for the perfect home or a landlord wanting to list your property, HomeFlex provides a seamless and secure platform for all your needs.
+            </p>
+            <p>
+                With a user-friendly interface, advanced search filters, and verified listings, we ensure a hassle-free experience. Our mission is to connect tenants with landlords in the most efficient and transparent way possible, eliminating the complexities often associated with home rentals.
+            </p>
+        </div>
+        <div class="col-md-6">
+            <p>
+                At HomeFlex, we prioritize security, reliability, and convenience. Our platform offers features such as online rent payments, virtual property tours, and rental agreements to make the rental process smoother than ever.
+            </p>
+            <p>
+                Join HomeFlex today and experience a smarter way to rent or lease properties. Let us help you find the perfect home or the right tenant with ease and confidence!
+            </p>
         </div>
     </div>
+</div>
+
     <div>
 
     </div>
